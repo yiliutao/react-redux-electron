@@ -1,0 +1,17 @@
+{
+  "name": "react-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "release.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "release": "node release.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^9.0.1"
+  }
+}

@@ -1,0 +1,8 @@
+[
+    {
+        "pageCode": "index",
+        "path": "src/pages/main/",
+        "page": "index.html",
+        "entry": "src/pages/main/index.tsx"
+    }
+]

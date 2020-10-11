@@ -1,0 +1,8 @@
+{
+    "version": "0.1.0.0.0",
+    "serverAddr": "",
+    "updateAddr": "",
+    "showConsole": true,
+    "ignoreCertificate": true,
+    "isDevMode": true
+}
